@@ -5,3 +5,5 @@ school = 'chuanzhiboke'
 hometown = 'luoyang'
 
 gender = 'man'
+
+position = 'manager'

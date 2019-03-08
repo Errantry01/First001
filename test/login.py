@@ -10,3 +10,4 @@ position = 'manager'
 
 like = 'run'
 
+mkbranch = 'dev'

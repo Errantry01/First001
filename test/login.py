@@ -7,3 +7,5 @@ hometown = 'luoyang'
 gender = 'man'
 
 position = 'manager'
+
+like = 'swimming'

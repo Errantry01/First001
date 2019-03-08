@@ -3,3 +3,5 @@ age = 26
 
 school = 'chuanzhiboke'
 hometown = 'luoyang'
+
+gender = 'man'
